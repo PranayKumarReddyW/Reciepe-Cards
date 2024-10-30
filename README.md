@@ -1,6 +1,4 @@
-Here's how your README with the added demo link will look:
 
----
 
 # Recipe Menu
 
