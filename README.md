@@ -1,4 +1,4 @@
-Here's the README without the License and Contributing sections:
+Here's how your README with the added demo link will look:
 
 ---
 
@@ -13,6 +13,7 @@ A React application that displays a menu of recipes with options to switch betwe
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [File Structure](#file-structure)
+- [Demo](#demo)
 
 ---
 
@@ -76,3 +77,7 @@ A React application that displays a menu of recipes with options to switch betwe
 │   └── index.js
 └── package.json
 ```
+
+## Demo
+
+Check out the live demo here: [Recipe Menu Demo](https://reciepe-cards.onrender.com/)
